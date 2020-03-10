@@ -1,0 +1,7 @@
+public class HannahBoggleGameDriver 
+{ 
+  public static void main (String[] args)
+  {
+    HannahBoggle game = new HannahBoggle ();
+  }
+}
